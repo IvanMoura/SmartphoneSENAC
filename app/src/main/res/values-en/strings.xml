@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Smartphones</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro">smartphone</string>
+
+
+
+
+
+
+    <!-- String do meu APP -->
+    <string name="celularModelo">Model: </string>
+    <string name="celularFabricante">Manufacturer: </string>
+    <string name="celularPreco">Value: </string>
+    <string name="celularCodigo">Code:</string>
+    <string name="celularTitulo">register Smartphones</string>
+
+    <string name="cadastrar">REGISTER</string>
+    <string name="Eeditar">EDIT</string>
+
+    <string name="NaoEncontrar">No registration Found</string>
+
+
+
+
+
+
+
+
+</resources>

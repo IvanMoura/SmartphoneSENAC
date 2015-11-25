@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b33438d9d908799b11578fe540b30ea8d60134e">
+        <dex dex="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\pre-dexed\debug\classes-1da44ff0427cdda962f16ac0d448798d10ccfb42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="002c9c712d53e88baa6248a0cb6e804f647b056e">
+        <dex dex="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\pre-dexed\debug\classes-69c652ddc7eee23637a2953ebd14330b2c8507c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aluno\Documents\SDKAndroid\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f141026767292cf054aae7467b481bf1b2d0627">
+        <dex dex="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-2bf00148eb583266d5df8e07ca946b273e98c562.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="22b4b28846c79803dc8f3aa7aed2d9cd46271345">
+        <dex dex="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\pre-dexed\debug\classes-b6c5bd3e32f89325bdf5383d79ca19a4e320ef6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12a4ccfaa8937772fea64fb87c357b508e07dc40">
+        <dex dex="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\pre-dexed\debug\classes-e4d3db003e741b1c32f8f0415c5dbeb8389ad429.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2694476ba83d6a86892517977e80fd1b67a221c">
+        <dex dex="C:\Users\Aluno\AndroidStudioProjects\ProvaBDIvanSENAC\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-f5e484d801e68d611b40febf077702a11cba4a40.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/row"
+    android:orientation="horizontal">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <TextView
+                android:text="modelo: "
+                android:layout_marginRight="10dp"/>
+            <TextView
+                android:id="@+id/txtModelo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="fabricante "
+                android:layout_marginRight="10dp"/>
+
+
+            <TextView
+                android:id="@+id/txtFabricante"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="preco "
+                android:layout_marginRight="10dp"/>
+
+
+            <TextView
+                android:id="@+id/txtPreco"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        </TableRow>
+
+
+    </TableLayout>
+
+
+
+</LinearLayout>
